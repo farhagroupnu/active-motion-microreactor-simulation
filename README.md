@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31968305/README.md)
 # Active Brownian Predator–Prey Simulation
 
 Simulation code accompanying the manuscript **“Programmable active motion accelerates catalysis in self-propelled metal–organic framework microreactors.”**
