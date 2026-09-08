@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the software release and the associated research article."
 title: "Active Brownian Predator–Prey Simulation"
 version: 1.0.0
+doi: "10.5281/zenodo.22665064"
 type: software
 abstract: >
   Python simulation code for an active Brownian predator–prey model with

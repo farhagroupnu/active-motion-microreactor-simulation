@@ -1,23 +1,24 @@
 # Zenodo/GitHub Metadata Checklist
 
-Review this checklist before creating the public GitHub release.
+Final metadata status after the first Zenodo release.
 
 ## Required / strongly recommended
 
-- [x] Final software/repository title
+- [ ] Final software/repository title
 - [x] All authors in `CITATION.cff`
 - [x] All creators in `.zenodo.json`
 - [x] Institutional affiliations
 - [x] ORCID IDs supplied for Zhihua Cheng and Omar K. Farha
-- [x] GitHub repository URL — `https://github.com/farhagroupnu/active-motion-microreactor-simulation`
+- [x] GitHub repository URL
 - [x] Final version number: v1.0.0
 - [x] Release date: 2026-09-08
 - [x] Associated manuscript title
 - [ ] Manuscript DOI — not yet available
-- [x] Funding/grant and facilities acknowledgement information
+- [x] Funding/grant and facilities information
 - [ ] Related DOI or publication identifiers in Zenodo metadata, if applicable
 - [x] Copyright holder in `LICENSE`: Northwestern University
 - [ ] Check that no confidential/personal files are present
+- [x] Zenodo DOI: `10.5281/zenodo.22665064`
 
 ## Zenodo/GitHub release workflow
 
@@ -34,7 +35,3 @@ Review this checklist before creating the public GitHub release.
 
 If both `.zenodo.json` and `CITATION.cff` are present, Zenodo uses `.zenodo.json`
 for GitHub release archiving. Keep the two files consistent.
-
-## DOI status
-
-No manuscript DOI or Zenodo DOI has been invented or inserted. Add these identifiers only after they are officially assigned.

@@ -1,5 +1,7 @@
 # Active Brownian Predator–Prey Simulation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22665064.svg)](https://doi.org/10.5281/zenodo.22665064)
+
 Simulation code accompanying the manuscript **“Programmable active motion accelerates catalysis in self-propelled metal–organic framework microreactors.”**
 
 ## Overview
@@ -29,8 +31,7 @@ and should be cited together with the associated publication once the article is
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
-├── CHANGELOG.md
-└── ZENODO_METADATA_CHECKLIST.md
+└── CHANGELOG.md
 ```
 
 ## Repository
@@ -133,7 +134,7 @@ Please cite the associated research article and this software release when using
 
 **Software citation:**
 
-Zenodo DOI: to be added after the first Zenodo release.
+Zenodo DOI: <https://doi.org/10.5281/zenodo.22665064>
 
 **Associated manuscript:**
 
@@ -149,9 +150,7 @@ Institutional affiliations and the available ORCID identifiers are included in t
 
 ## License
 
-This software is released under the MIT License. See `LICENSE`.
-
-The copyright holder is Northwestern University.
+This software is released under the MIT License. Copyright © 2026 Northwestern University. See `LICENSE`.
 
 ## Version
 
@@ -174,7 +173,7 @@ Affiliations:
 
 Corresponding author: Omar K. Farha (o-farha@northwestern.edu)
 
-At the time this package was prepared, the manuscript DOI and Zenodo DOI had not yet been assigned.
+The software is archived on Zenodo at <https://doi.org/10.5281/zenodo.22665064>. The manuscript DOI had not yet been assigned when this package was prepared.
 
 ## Funding and acknowledgements
 
@@ -191,6 +190,6 @@ Confocal fluorescent microscopy was performed at the Biological Imaging Facility
 - **Manuscript title:** populated
 - **Manuscript DOI:** not yet available
 - **GitHub repository URL:** populated
-- **Zenodo DOI:** generated after release
+- **Zenodo DOI:** `10.5281/zenodo.22665064`
 - **Funding/grants and facilities:** populated
 - **License copyright holder:** Northwestern University
