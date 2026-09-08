@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software release and the associated research article."
+title: "Active Brownian Predator–Prey Simulation"
+version: 1.0.0
+type: software
+abstract: >
+  Python simulation code for an active Brownian predator–prey model with
+  constant, exponentially decaying, and segmented/oscillatory predator
+  propulsion-speed protocols. The software generates simulation movies,
+  predator trajectories, prey-population histories, predator-speed histories,
+  and predator mean-squared displacement data.
+keywords:
+  - active Brownian motion
+  - predator-prey dynamics
+  - active matter
+  - microswimmers
+  - stochastic simulation
+  - particle simulation
+authors:
+  - given-names: "Zhihua"
+    family-names: "Cheng"
+    affiliation: "Department of Chemistry, Northwestern University"
+    orcid: "https://orcid.org/0000-0001-9040-2473"
+  - given-names: "Duaa N."
+    family-names: "Ansari"
+    affiliation: "Department of Chemistry, Northwestern University"
+  - given-names: "Saptasree"
+    family-names: "Bose"
+    affiliation: "Department of Chemistry, Northwestern University"
+  - given-names: "Palak"
+    family-names: "Garg"
+    affiliation: "Department of Chemistry, Northwestern University"
+  - given-names: "Kent O."
+    family-names: "Kirlikovali"
+    affiliation: "Department of Chemistry, Northwestern University"
+  - given-names: "Omar K."
+    family-names: "Farha"
+    affiliation: "Department of Chemistry, Northwestern University"
+    orcid: "https://orcid.org/0000-0002-9904-9845"
+repository-code: "https://github.com/farhagroupnu/active-motion-microreactor-simulation"
+date-released: 2026-09-08
